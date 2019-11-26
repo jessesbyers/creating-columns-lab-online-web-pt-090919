@@ -71,6 +71,8 @@ div.container.column {
 
 .large {
   width: 300%;
-  height: 300%
+  height: 300%;
+  margin: 10px auto;
+
 
 }
